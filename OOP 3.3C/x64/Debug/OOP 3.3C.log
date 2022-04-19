@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\hp\source\repos\OOP 3.3C\OOP 3.3C\Source.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  OOP 3.3C.vcxproj -> C:\Users\hp\source\repos\OOP 3.3C\x64\Debug\OOP 3.3C.exe
